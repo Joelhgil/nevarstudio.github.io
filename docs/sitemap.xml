@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/</loc>
+    <loc>https://nevarstudio.github.io/</loc>
     <lastmod>2025-11-03T20:04:10-03:00</lastmod>
   </url><url>
-    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/posts/</loc>
+    <loc>https://nevarstudio.github.io/posts/</loc>
     <lastmod>2025-11-03T20:04:10-03:00</lastmod>
   </url><url>
-    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/posts/bienvenida/</loc>
+    <loc>https://nevarstudio.github.io/posts/bienvenida/</loc>
     <lastmod>2025-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/categories/</loc>
+    <loc>https://nevarstudio.github.io/categories/</loc>
   </url><url>
-    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/tags/</loc>
+    <loc>https://nevarstudio.github.io/tags/</loc>
   </url>
 </urlset>
