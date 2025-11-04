@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nevarstudio.github.io/</loc>
+    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/</loc>
     <lastmod>2025-11-03T20:04:10-03:00</lastmod>
   </url><url>
-    <loc>https://nevarstudio.github.io/posts/</loc>
+    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/posts/</loc>
     <lastmod>2025-11-03T20:04:10-03:00</lastmod>
   </url><url>
-    <loc>https://nevarstudio.github.io/categories/</loc>
+    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/categories/</loc>
   </url><url>
-    <loc>https://nevarstudio.github.io/tags/</loc>
+    <loc>https://github.com/joelhgil/nevarstudio.github.io.git/tags/</loc>
   </url>
 </urlset>

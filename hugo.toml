@@ -1,4 +1,4 @@
-baseURL = "https://nevarstudio.github.io/"
+baseURL = "https://github.com/joelhgil/nevarstudio.github.io.git"
 languageCode = "es-ar"
 title = "Nevar Studio"
 theme = "PaperMod"
