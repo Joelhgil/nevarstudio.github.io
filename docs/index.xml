@@ -6,7 +6,22 @@
     <description>Recent content on Nevar Studio</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>es-ar</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://github.com/joelhgil/nevarstudio.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenida</title>
+      <link>https://github.com/joelhgil/nevarstudio.github.io.git/posts/bienvenida/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://github.com/joelhgil/nevarstudio.github.io.git/posts/bienvenida/</guid>
+      <description>&lt;h1 id=&#34;nevar-studio&#34;&gt;Nevar Studio&lt;/h1&gt;
+&lt;p&gt;Bienvenido al sitio de Nevar Studio.&lt;br&gt;
+Este espacio es una síntesis entre estrategia, poesía y diseño.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Branding visual&lt;/li&gt;
+&lt;li&gt;Ecosistemas abiertos&lt;/li&gt;
+&lt;li&gt;Narrativas que transforman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/joelhgil/nevarstudio.github.io.git/page/estudio&#34;&gt;Ver más&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
